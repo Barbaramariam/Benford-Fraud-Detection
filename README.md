@@ -1,5 +1,3 @@
-# Benford-Fraud-Detection
-Detección de fraude financiero mediante la Ley de Benford y algoritmos de Machine Learning (KNN y Random Forest).
 # Deteccion de Fraude Financiero mediante la Ley de Benford
 
 Este proyecto aplica tecnicas de aprendizaje automatico para identificar posibles fraudes en transacciones financieras, analizando como se distribuyen los primeros digitos de los montos segun la Ley de Benford.
